@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637607786553",
+    "project_id": "mmusic-8456d",
+    "storage_bucket": "mmusic-8456d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637607786553:android:8eb3a0d38078505bb5f5e8",
+        "android_client_info": {
+          "package_name": "com.app.mmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637607786553-qlo8b10apjatd3lme84dtfqtvako4iml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4v4oinNMKdNXCJRM0jtfqbVbMbl1cHok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637607786553-qlo8b10apjatd3lme84dtfqtvako4iml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
